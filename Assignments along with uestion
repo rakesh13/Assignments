@@ -1,0 +1,47 @@
+# Assignments
+Assignments
+JavaAssignment1A: String Parsing (Query string)
+a. Parse the given string into word
+i. Ex: select * from Employee.csv where department = ‘HR’ and salary>=3000
+ii. Output: [select ,*, from, Employee.csv, where, department, =, ‘HR’, and, salary,>=,3000]
+iii. Note: If the query contains group by, order by, having should also fetch
+
+JavaAssignment1B1:
+Extract the parts of query
+i. Get only base query from the query string.(without where condition)
+1. i.e., select * from Employee.csv
+
+JavaAssignment1B2:
+ii. Get only where condition part
+1. i.e., department = ‘HR’ and salary>=3000
+2. Note: where condition part should not contains group by, order by, having parts.
+
+JavaAssiignment1_B_3_1:
+iii. Parse the Where condition part
+1. Relation Operators
+a. Ex: if where condition is : department = ‘HR’ and salary>=3000
+b. The output should be
+i. Restriction - 1
+1. propertyName : department
+2. properyValue:HR
+3. condtionalOperator:=
+ii. Restriction - 2
+1. propertyName : salary
+2. properyValue:3000
+3. condtionalOperator:>=
+
+JavaAssignment1_B_3_2:
+2. Logical Operators
+a. Ex: if where condition is : department=”Dev” or department=”HR” and salary>=3000
+i. Extract the logical operators in sequence and display/store in collection
+1. Output : [or,and]
+
+FirstAssignment:
+File Reading
+a. Read a file and display the same in the console.
+
+SecondAssignment:
+Read a csv file and display only header(first row)
+
+ThirdAssignment:
+Read a csv file and display the data( Other than first row)
