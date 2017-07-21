@@ -1,0 +1,41 @@
+EmpId,Name,City,Salary,Dept
+100,John,Bangalore,30000,Sales
+101,,New York,40000,IT
+102,Rahul,Kolkata,35000,Sales
+103,Anant,Bangalore,32000,IT
+104,Rajeev,New Delhi,31000,Sales
+105,Francis,Kolkata,28000,Tech
+106,Rakesh,Kolkata,35000,FSO
+107,Anand,Bangalore,39500,CSO
+108,John,Bangalore,,Sales
+109,Will,New York,40500,IT
+110,Rahul,Kolkata,36000,Sales
+111,Ananta,Bellandur,33000,IT
+112,Rajeev,New Delhi,,Sales
+113,Francis,Kolkata,28500,Tech
+114,Tiffanie,,35000,FSO
+115,Patrick,Bangalore,39000,CSO
+116,Milford,Bangalore,,Sales
+117,Debrah,New York,40800,IT
+118,Audra,,35800,Sales
+119,Cliff,Bangalore,32000,IT
+120,Laurinda,New Delhi,31000,Sales
+121,Rubi,Kolkata,28000,Tech
+122,Astrid,Kolkata,35000,Tech
+123,Blanch,Bangalore,39000,Tech
+124,Gerardo,Bangalore,30000,Sales
+125,Irena,New York,40000,IT
+126,Janay,Kolkata,35000,Sales
+127,Jeffry,Bangalore,32000,IT
+128,Catherine,New Delhi,31000,Sales
+129,Francis,Kolkata,28000,Tech
+130,Rakesh,Kolkata,35000,Tech
+131,Anand,Bangalore,39000,CSO
+132,John,Bangalore,30700,Sales
+133,Will,New York,40600,IT
+134,Rahul,Kolkata,35000,Sales
+135,Anant,Bangalore,32000,IT
+136,Rajeev,New Delhi,31000,Sales
+137,Francis,Kolkata,28000,Content Design
+138,Rakesh,Kolkata,35000,FSO
+139,Anand,Bangalore,39000,CSO
